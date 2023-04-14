@@ -1,10 +1,10 @@
 # Hi people! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🚀 About Me
-👨‍💻 I am a junior front-end developer. I am currently learning React Native
-
+👨‍💻 I am a junior front-end developer. I am a passionate programmer who strives to constantly improve my skills, learn new technologies and development methods. In my GitHub profile, you will find my projects that I created during the training. I love working in a team and enjoy networking with other developers to learn more about how to build better websites and apps.
 
 ## 🛠️ My stack
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![react native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![react](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
