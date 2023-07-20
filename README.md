@@ -1,7 +1,7 @@
 # Hi people! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🚀 About Me
-👨‍💻 **I am a Junior Front-end Developer**. I am a passionate programmer who strives to constantly improve my skills, learn new technologies and development methods. In my GitHub profile you will find my projects that I created in my free time and in the process of learning. I love working in a team and enjoy networking with other developers to learn more about how to build better websites and apps.
+👨‍💻 **I am a Junior Fullstack Developer**. I am a passionate programmer who strives to constantly improve my skills, learn new technologies and development methods. In my GitHub profile you will find my projects that I created in my free time and in the process of learning. I love working in a team and enjoy networking with other developers to learn more about how to build better websites and apps.
 
 ## 🛠️ My stack
 ### Frontend
@@ -23,7 +23,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🔗 Links
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/11GUjTF5RdT6W06y2cHWuThpMRI_MBUmP/view?usp=sharing)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1sfZZ_NCSLohss2L0Z3jjpSiYbxVGctMa/view?usp=sharing)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mykyta-hilis/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/333Nikita333)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nikitosfox333@gmail.com)
