@@ -15,7 +15,10 @@
 ![react native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![typescript](https://img.shields.io/badge/TypeScript-22548A?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/tailwindcss-white?style=for-the-badge&logo=tailwind-css&logoColor=3b82f6&labelColor=black)
+<div style="border: 1px solid black; display: inline-block; padding: 5px;">
+  ![tailwindcss](https://img.shields.io/badge/tailwindcss-white?style=for-the-badge&logo=tailwind-css&logoColor=3b82f6)
+</div>
+
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
