@@ -29,7 +29,7 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)](https://www.getpostman.com/)
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/Portfolio-1b1633?style=for-the-badge&logo=About.me&logoColor=white)]((https://portfolio-mykyta-hilis.vercel.app/))
+[![portfolio](https://img.shields.io/badge/Portfolio-2e2257?style=for-the-badge&logo=web&logoColor=white)]((https://portfolio-mykyta-hilis.vercel.app/))
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1kKPOmKaankcWdmdS4T16hakmvRDbQZtU/view?usp=sharing)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mykyta-hilis/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/333Nikita333)
