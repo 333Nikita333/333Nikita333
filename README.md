@@ -1,7 +1,7 @@
 # Hi people! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🚀 About Me
-👨‍💻 **I am a Junior Fullstack Developer**. I am a passionate programmer who strives to constantly improve my skills, learn new technologies and development methods. In my GitHub profile you will find my projects that I created in my free time and in the process of learning. I love working in a team and enjoy networking with other developers to learn more about how to build better websites and apps.
+👨‍💻 **I am a Fullstack Developer**. I am a passionate programmer who strives to constantly improve my skills, learn new technologies and development methods. In my GitHub profile you will find my projects that I created in my free time and in the process of learning. I love working in a team and enjoy networking with other developers to learn more about how to build better websites and apps.
 
 ## 🛠️ My stack
 ### Frontend
